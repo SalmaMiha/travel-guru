@@ -1,0 +1,27 @@
+[
+    {
+      "hotel_name": "Sunset Beach Resort",
+      "rooms": "4 guests   2 bedrooms   2 beds   2 baths",
+      "img": "https://i.ibb.co/B4by7gb/Rectangle-28.png",
+      "features": ["Beachfront", "Swimming Pool", "Restaurant", "Spa"],
+      "ratings": 4.5,
+      "price": 150.0
+    },
+    {
+      "hotel_name": "Mountain View Lodge",
+      "rooms": "4 guests   2 bedrooms   2 beds   2 baths",
+      "img": "https://i.ibb.co/k90t8WQ/Rectangle-27.png",
+      "features": ["Scenic Views", "Hiking Trails", "Fireplace", "Wi-Fi"],
+      "ratings": 4.2,
+      "price": 120.0
+    },
+    {
+      "hotel_name": "City Center Hotel",
+      "rooms": "2 guests   1 bedroom   1 bed   1 bath",
+      "img": "https://i.ibb.co/RGng4RJ/Rectangle-26.png",
+      "features": ["Central Location", "Fitness Center", "Room Service", "Free Breakfast"],
+      "ratings": 4.0,
+      "price": 90.0
+    }
+  ]
+  

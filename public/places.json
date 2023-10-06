@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "place": "Cox's Bazar",
+      "details": "Cox's Bazar is a stunning coastal town located in Bangladesh. It is renowned for having the longest natural sea beach in the world, stretching over 120 kilometers. The town offers breathtaking views of the Bay of Bengal, making it a popular tourist destination. Visitors can enjoy the serene beaches, indulge in delicious seafood, and explore nearby attractions like Himchari National Park and Inani Beach.",
+      "img": "https://i.ibb.co/2KJjmTc/Rectangle-1.png"
+    },
+    {
+      "id": 2,
+      "place": "Sreemangal",
+      "details": "Sreemangal, often referred to as the 'Tea Capital of Bangladesh,' is a picturesque town nestled amidst lush tea gardens and pristine forests. It's a paradise for nature lovers and tea enthusiasts. Visitors can take guided tours of tea estates, sip on aromatic tea, and explore the Lawachara National Park for a glimpse of diverse wildlife. The serene beauty and tranquility of Sreemangal make it a perfect getaway.",
+      "img": "https://i.ibb.co/jvZJB4w/Sreemongol.png"
+    },
+    {
+      "id": 3,
+      "place": "Sajek",
+      "details": "Sajek Valley is a hidden gem in the Chittagong Hill Tracts of Bangladesh. This remote and pristine location offers panoramic views of rolling hills, lush green landscapes, and indigenous culture. Trekking through the hills, visiting local villages, and camping under the starry sky are some of the activities that await adventure seekers. Sajek is an ideal destination for those seeking tranquility and natural beauty.",
+      "img": "https://i.ibb.co/yy8Mw9J/Sajek.png"
+    },
+    {
+      "id": 4,
+      "place": "Sundarbans",
+      "details": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site. It spans across the southern part of Bangladesh and India, where the Ganges, Brahmaputra, and Meghna rivers meet the Bay of Bengal. This unique ecosystem is home to the Bengal tiger and various other wildlife species. Visitors can explore the mangrove forests, spot wildlife on boat safaris, and immerse themselves in the natural wonders of this enchanting region.",
+      "img": "https://i.ibb.co/BVLWHn9/sundorbon.png"
+    }
+  ]
+  
